@@ -1,2 +1,3 @@
-# rasp_miscellaneous
-A bunch of raspberry pi 3 scripts
+# My personal collection of raspberry scripts
+
+## Keep working ...
